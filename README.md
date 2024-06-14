@@ -1,7 +1,7 @@
 
 # Terör Arananlar Uygulaması
 
-EGM'nin www.terorarananlar.pol.tr sitesinde bulunan terör suçlularını kamerada tespit eden ve bilgilerini getiren yüz tanıma uygulamasıdır.
+EGM'nin www.terorarananlar.pol.tr sitesinde bulunan terör suçlularını kamera veya videodan tespit eden ve bilgilerini getiren yüz tanıma uygulamasıdır.
 
 ## Özellikler 🛠️
 
